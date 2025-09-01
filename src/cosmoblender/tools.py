@@ -9,7 +9,7 @@ from scipy.interpolate import CubicSpline
 
 import sys
 # TODO: install BasicILC
-sys.path.insert(0, '/Users/antonbaleatolizancos/Software/BasicILC/')
+sys.path.insert(0, '/home/user/ps_covar/envcovar/lib/python3.10/site-packages/BasicILC/')
 import cmb_ilc
 
 cmb_dummy = cmb_ilc.CMB()
